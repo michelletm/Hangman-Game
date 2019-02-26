@@ -1,6 +1,7 @@
 body {
     background-color: lightgreen;
-    background-image: url("../images/summer_camp.gif"); 
+    background-image: url("../images/summer_camp.gif");
+    
 }
 
 .header-container {
@@ -51,8 +52,8 @@ p,
     margin-bottom: auto;
     margin-left: auto;
     margin-right: auto;
-    background: hotpink;
-    outline: 1px solid lightskyblue;
+    background: rgb(252, 138, 97);
+    outline: 2px solid lightskyblue;
     opacity: 0.8;
 }
 
