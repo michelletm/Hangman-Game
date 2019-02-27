@@ -1,1 +1,3 @@
 # Hangman-Game
+
+This game offers the user a word, from three different possibility, to guess, letter by letter, with ten guesses per round. This project is useful because it requires the developer to program the game accoring to user input and random computer choices, and output a score depending on outcomes of booleans and if else/statements. The logic behind it is key, and rather challenging considering the deceptive simplicity of the game itself. Help on this project came from fellow developers and mentors, and simple javascript workbooks (like https://javascript-workbook.netlify.com), which were very helpful in getting the basics down. This game is maintained by myself (github: michelletm), and a work in progress. 
